@@ -1,0 +1,1 @@
+This is text of file for develop-feature2 branch.
